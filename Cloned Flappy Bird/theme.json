@@ -1,0 +1,26 @@
+{
+    "defaults":
+    {
+        "colours":
+        {
+            "normal_bg":"rgb(174, 0, 255)",
+            "hovered_bg":"rgb(234, 187, 250)",
+            "normal_border":"rgb(149, 0, 255)",
+            "normal_text":"rgb(242, 15, 140)",
+            "hovered_text":"rgb(242, 15, 140)"
+        }
+    },
+    "button":{
+        "font":
+        {
+            "size": "10",
+            "bold": "1"
+        },
+        "misc":
+        {
+            "shape":"rounded_rectangle",
+            "shape_corner_radius":"10",
+            "border_width": "4"
+        }
+    }
+}

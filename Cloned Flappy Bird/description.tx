@@ -1,0 +1,15 @@
+Description:
+    This is a Flappy Bird game cloned by Lam Yeung Kong Sunny 
+
+Credit:
+    Image:
+        bg_image1: From pxfuel.com - https://www.pxfuel.com/en/desktop-wallpaper-pcbab
+        bg_iamge2: By creator MICHAELJONATHAN2114 - https://www.deviantart.com/michaeljonathan2114/art/cyber-city-wallpaper-882823179
+        bird: From pngwing.com - https://www.pngwing.com/en/free-png-bxyal
+        pipe1: From pngwing.com - https://www.pngwing.com/en/free-png-mojeq
+        pipe2: From pngwing.com - https://www.pngwing.com/en/free-png-zddsk
+    Sound/Music:
+        bg_music: By AudioCoffee - https://freesound.org/people/AudioCoffee/
+        jump_sound: By corpocracy - https://freesound.org/people/corpocracy/sounds/403369/
+        score_increment_sound:
+        game_over_sound: By myfox14 - https://freesound.org/people/myfox14/sounds/382310/
